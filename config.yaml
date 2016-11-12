@@ -1,0 +1,20 @@
+# The name of your module. This will be used in generating files and their contents. Use UpperCamelCase.
+name: "Billing"
+
+# Directories are made recursively - you don't need to define parent folders by themselves.
+directories:
+    - "/Config/Dynamic"
+    - "/Container"
+    - "/Data"
+    - "/Enum"
+    - "/Exception"
+    - "/Handler"
+    - "/Library"
+    - "/Migration"
+    - "/Processor/Cron"
+    - "/Processor/Event"
+    - "/Processor/Interval"
+    - "/Processor/Single"
+    - "/Processor/Worker"
+    - "/Processor/Test"
+
