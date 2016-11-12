@@ -8,7 +8,7 @@
 Format: `program action name`
 
 
-```sh
+```bash
 	$ phpmodule init Billing    # Create Module
 ```
 
@@ -24,16 +24,16 @@ Format: `program action name`
 Format: `program action type (name)`
 
 	
-```sh
+```bash
 # Create Module Data
 $ phpmodule create data Customer
 
 # Create Module Enum
-phpmodule create enum PlanCode
+$ phpmodule create enum PlanCode
 
 # Create Module Exception
-phpmodule create exception (name) 	# Name Optional
+$ phpmodule create exception (name) 	# Name Optional
 
 # Create Module Test
-phpmodule create test Customer
+$ phpmodule create test Customer
 ```
