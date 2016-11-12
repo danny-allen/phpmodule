@@ -1,0 +1,10 @@
+{
+  "name": "phuse/{{.Name}}",
+  "authors": [
+    {
+      "name": "",
+      "email": ""
+    }
+  ],
+  "require": {}
+}
