@@ -8,7 +8,7 @@
 Format: `program action name`
 
 
-```bash
+```{r, engine='sh', count_lines}
 $ phpmodule init Billing    # Create Module
 ```
 
@@ -24,7 +24,7 @@ $ phpmodule init Billing    # Create Module
 Format: `program action type (name)`
 
 	
-```bash
+```{r, engine='sh', count_lines}
 # Create Module Data
 $ phpmodule create data Customer
 
