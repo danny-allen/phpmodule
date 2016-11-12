@@ -34,37 +34,3 @@ func main() {
 		break
 	}
 }
-
-/*
-
-	//********
-	// MODULE
-	//********
-
-	Format: program action name
-
-	// Create Module
-	$ phpmodule init Billing
-
-
-
-	//*******************
-	// MODULE COMPONENTS
-	//*******************
-
-	Format: program action type (name)
-
-	// Create Module Data
-	$ phpmodule create data Customer
-
-	// Create Module Enum
-	phpmodule create enum PlanCode
-
-	// Create Module Exception
-	phpmodule create exception (name) 	# Name Optional
-
-	// Create Module Test
-	phpmodule create test Customer
-
-
-*/
