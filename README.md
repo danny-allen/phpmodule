@@ -14,8 +14,6 @@ $ phpmodule init Billing    # Create Module
 
 <br />
 
----
-
 <br />
 
 
