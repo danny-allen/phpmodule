@@ -14,9 +14,6 @@ $ phpmodule init Billing    # Create Module
 
 <br />
 
-<br />
-
-
 ### Creating module components - NOT IMPLEMENTED YET
 
 Format: `program action type (name)`
