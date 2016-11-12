@@ -9,7 +9,7 @@ Format: `program action name`
 
 
 ```bash
-	$ phpmodule init Billing    # Create Module
+$ phpmodule init Billing    # Create Module
 ```
 
 <br />
