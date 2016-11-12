@@ -1,7 +1,5 @@
 # PHPMODULE
 
----
-
 <br />
 
 
@@ -27,15 +25,15 @@ Format: `program action type (name)`
 
 	
 ```sh
-    # Create Module Data
-    $ phpmodule create data Customer
-    
-    # Create Module Enum
-    phpmodule create enum PlanCode
-    
-    # Create Module Exception
-    phpmodule create exception (name) 	# Name Optional
-    
-    # Create Module Test
-    phpmodule create test Customer
+# Create Module Data
+$ phpmodule create data Customer
+
+# Create Module Enum
+phpmodule create enum PlanCode
+
+# Create Module Exception
+phpmodule create exception (name) 	# Name Optional
+
+# Create Module Test
+phpmodule create test Customer
 ```
